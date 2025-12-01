@@ -48,7 +48,6 @@
 </p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=suharyadi2112&theme=tokyonight" />
 </p>
 
 <p align="center">
