@@ -2,9 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/suharyadi2112">
-    <img src="https://img.shields.io/badge/Code-Go-informational?logo=go&logoColor=white&color=00ADD8" />
-  </a>
-  <a href="https://github.com/suharyadi2112">
     <img src="https://img.shields.io/badge/Backend-Developer-success?logo=serverfault&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/suharyadi-3423a3193">
@@ -44,18 +41,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages**: Go, JavaScript/Node.js, PHP  
-- **Backend**: REST API, WebSocket, Logrus, Sentry, Clean architecture style. [web:29][web:36]  
-- **Frontend**: Vue.js  
-- **Databases**: PostgreSQL, MySQL  
-- **DevOps & Tools**: Docker, Git, Linux, PM2  
-
----
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,6 +56,18 @@
 </p>
 
 ---
+
+
+## 🛠️ Tech Stack
+
+- **Languages**: Go, JavaScript/Node.js, PHP  
+- **Backend**: REST API, WebSocket, Logrus, Sentry, Clean architecture style. [web:29][web:36]  
+- **Frontend**: Vue.js  
+- **Databases**: PostgreSQL, MySQL  
+- **DevOps & Tools**: Docker, Git, Linux, PM2  
+
+---
+
 
 ## ✍️ Writing
 
