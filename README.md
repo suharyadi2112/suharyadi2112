@@ -54,16 +54,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img height="190"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
+  <img height="190"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
+  <img height="190"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
+</div>
 
 ---
 
