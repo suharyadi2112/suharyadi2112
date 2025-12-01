@@ -2,9 +2,10 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-<h1 align="center">Hi there, I'm Suharyadi 👋</h1>
+<h1 align="center">Hi there, I'm SUDEV 👋</h1>
 
 ## 🌐 Connect with me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/suharyadi-3423a3193/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
@@ -26,9 +27,10 @@
 
 ## 👨‍💻 About Me
 
-- Backend / fullstack developer from **Batam, Indonesia**.  
-- Focus on building **WhatsApp automation**, **multi-instance managers**, and **internal tools** that help teams debug faster.  
-- Enjoy designing APIs, logging, and observability so production issues are easier to trace.
+- My name is **Suharyadi**, a backend / full‑stack developer based in **Batam, Indonesia**.  
+- Most of my time is spent on the backend: designing reliable APIs, setting up solid logging, and improving observability so production issues are easier to track down.  
+- Outside of work, I like experimenting with side projects and writing short technical notes on Dev.to to document what I am learning.
+
 
 ---
 
@@ -44,9 +46,6 @@
 
 - 🧩 **Sudev-Whatsapp-Tools**  
   Multi-instance WhatsApp manager with real-time monitoring, template-based messaging, and scalable message handling built in Go on top of Whatsmeow. [web:28]  
-
-- 📊 **Call-IT-Geng**  
-  Lightweight reporting platform for IT teams to track issues and activities.  
 
 - 🏥 **Business Apps** – `klinik`, `Aplikasi-Tes-Karyawan`, `Aplikasi-Tenaga-Kependidikan`  
   Applications that support clinic workflows and employee testing/administration. [web:22]  
