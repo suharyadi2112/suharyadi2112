@@ -56,14 +56,18 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suharyadi2112&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=suharyadi2112&theme=tokyonight" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suharyadi2112&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
