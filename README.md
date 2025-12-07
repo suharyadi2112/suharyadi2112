@@ -37,6 +37,14 @@
 ## 🚀 What I Build
 
 - **WhatsApp Multi-Instance Tools** – managing multiple numbers, session handling, monitoring, and message workflows with Go + Whatsmeow. [web:28]  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=suharyadi2112&repo=Sudev-Whatsapp-Tools&theme=tokyonight&show_owner=true)
+
+![Commits](https://img.shields.io/github/commit-activity/m/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github) 
+![Last Commit](https://img.shields.io/github/last-commit/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github)
+![Code Size](https://img.shields.io/github/languages/code-size/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge)
+
+
 - **Reporting & Line-of-Business Apps** – apps for IT reporting and HR/clinic operations (Call-IT-Geng, klinik, Aplikasi-Tes-Karyawan, Aplikasi-Tenaga-Kependidikan). [web:22]  
 - **Developer Utilities** – logging & monitoring helpers (Logrus, Sentry) to make debugging painless. [web:36][web:29]  
 
