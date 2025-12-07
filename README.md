@@ -49,6 +49,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suharyadi2112&theme=tokyo-night&hide_border=true&area=true)
 
+## 📊 Project Activity
+
+View detailed analytics:
+- [Commit Activity](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/commit-activity)
+- [Code Frequency](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/code-frequency)
+- [Contributors](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/contributors)
+
 - **Reporting & Line-of-Business Apps** – apps for IT reporting and HR/clinic operations (Call-IT-Geng, klinik, Aplikasi-Tes-Karyawan, Aplikasi-Tenaga-Kependidikan). [web:22]  
 - **Developer Utilities** – logging & monitoring helpers (Logrus, Sentry) to make debugging painless. [web:36][web:29]  
 
