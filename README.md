@@ -4,6 +4,50 @@
 </div>
 <h1 align="center">Hi there, I'm SUDEV 👋</h1>
 
+---
+
+## 👨‍💻 About Me
+
+- My name is **Suharyadi**, a backend / full‑stack developer based in **Batam, Indonesia**.  
+- Most of my time is spent on the backend: designing reliable APIs, setting up solid logging, and improving observability so production issues are easier to track down.  
+- Outside of work, I like experimenting with side projects and writing short technical notes on Dev.to to document what I am learning.
+
+---
+
+## 📌 Highlighted Projects
+
+- 🧩 **Sudev-Whatsapp-Tools**  
+  Multi-instance WhatsApp manager with real-time monitoring, template-based messaging, and scalable message handling built in Go on top of Whatsmeow. [web:28]  
+
+![Alt](https://repobeats.axiom.co/api/embed/cea4e4c48a29d2ee6eb0cfef8b54a8accc1d3034.svg "Repobeats analytics image")
+
+![Commits](https://img.shields.io/github/commit-activity/m/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github) 
+![Last Commit](https://img.shields.io/github/last-commit/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github)
+![Code Size](https://img.shields.io/github/languages/code-size/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge)
+
+---
+
+## 🚀 What I Build
+
+- **WhatsApp Multi-Instance Tools** – managing multiple numbers, session handling, monitoring, and message workflows with Go + Whatsmeow. [web:28]  
+- **Reporting & Line-of-Business Apps** – apps for IT reporting and HR/clinic operations (Call-IT-Geng, klinik, Aplikasi-Tes-Karyawan, Aplikasi-Tenaga-Kependidikan). [web:22]  
+- **Developer Utilities** – logging & monitoring helpers (Logrus, Sentry) to make debugging painless. [web:36][web:29]  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="190"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
+  <img height="190"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
+  <img height="190"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
+</div>
+
+---
+
 ## 🌐 Connect with me
 
 <div align="left">
@@ -21,64 +65,7 @@
   </a>
 </div>
 
-
-
 ---
-
-## 👨‍💻 About Me
-
-- My name is **Suharyadi**, a backend / full‑stack developer based in **Batam, Indonesia**.  
-- Most of my time is spent on the backend: designing reliable APIs, setting up solid logging, and improving observability so production issues are easier to track down.  
-- Outside of work, I like experimenting with side projects and writing short technical notes on Dev.to to document what I am learning.
-
-
----
-
-## 🚀 What I Build
-
-- **WhatsApp Multi-Instance Tools** – managing multiple numbers, session handling, monitoring, and message workflows with Go + Whatsmeow. [web:28]  
-
-![Alt](https://repobeats.axiom.co/api/embed/cea4e4c48a29d2ee6eb0cfef8b54a8accc1d3034.svg "Repobeats analytics image")
-
-![Commits](https://img.shields.io/github/commit-activity/m/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github) 
-![Last Commit](https://img.shields.io/github/last-commit/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github)
-![Code Size](https://img.shields.io/github/languages/code-size/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge)
-
-## 📊 Project Activity
-
-View detailed analytics:
-- [Commit Activity](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/commit-activity)
-- [Code Frequency](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/code-frequency)
-- [Contributors](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/contributors)
-
-- **Reporting & Line-of-Business Apps** – apps for IT reporting and HR/clinic operations (Call-IT-Geng, klinik, Aplikasi-Tes-Karyawan, Aplikasi-Tenaga-Kependidikan). [web:22]  
-- **Developer Utilities** – logging & monitoring helpers (Logrus, Sentry) to make debugging painless. [web:36][web:29]  
-
----
-
-## 📌 Highlighted Projects
-
-- 🧩 **Sudev-Whatsapp-Tools**  
-  Multi-instance WhatsApp manager with real-time monitoring, template-based messaging, and scalable message handling built in Go on top of Whatsmeow. [web:28]  
-
-- 🏥 **Business Apps** – `klinik`, `Aplikasi-Tes-Karyawan`, `Aplikasi-Tenaga-Kependidikan`  
-  Applications that support clinic workflows and employee testing/administration. [web:22]  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="190"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
-  <img height="190"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
-  <img height="190"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
-</div>
-
----
-
 
 ## 🛠️ Tech Stack
 
