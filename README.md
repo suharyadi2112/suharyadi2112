@@ -38,16 +38,11 @@
 
 - **WhatsApp Multi-Instance Tools** – managing multiple numbers, session handling, monitoring, and message workflows with Go + Whatsmeow. [web:28]  
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=suharyadi2112&repo=Sudev-Whatsapp-Tools&theme=tokyo-night&hide_border=true)](https://github.com/suharyadi2112/Sudev-Whatsapp-Tools/graphs/commit-activity)
+![Alt](https://repobeats.axiom.co/api/embed/cea4e4c48a29d2ee6eb0cfef8b54a8accc1d3034.svg "Repobeats analytics image")
 
 ![Commits](https://img.shields.io/github/commit-activity/m/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github) 
 ![Last Commit](https://img.shields.io/github/last-commit/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github)
 ![Code Size](https://img.shields.io/github/languages/code-size/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge)
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=suharyadi2112&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suharyadi2112&theme=tokyo-night&hide_border=true&area=true)
 
 ## 📊 Project Activity
 
