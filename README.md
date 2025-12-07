@@ -25,6 +25,12 @@
 ![Last Commit](https://img.shields.io/github/last-commit/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github)
 ![Code Size](https://img.shields.io/github/languages/code-size/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge)
 
+## 📰 Featured Article
+
+[![Dev.to](https://img.shields.io/badge/dev.to-Featured-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/suharyadi2112/building-a-whatsapp-multi-instance-rest-api-with-go-echo-and-whatsmeow-5bln)
+
+Read the full story: [Building a WhatsApp Multi-Instance REST API with Go, Echo, and Whatsmeow](https://dev.to/suharyadi2112/building-a-whatsapp-multi-instance-rest-api-with-go-echo-and-whatsmeow-5bln)
+
 ---
 
 ## 🚀 What I Build
