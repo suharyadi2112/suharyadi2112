@@ -1,7 +1,4 @@
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 <h1 align="center">Hi there, I'm SUDEV 👋</h1>
 
 ---
@@ -19,11 +16,23 @@
 - 🧩 **Sudev-Whatsapp-Tools**  
   Multi-instance WhatsApp manager with real-time monitoring, template-based messaging, and scalable message handling built in Go on top of Whatsmeow. [web:28]  
 
-![Alt](https://repobeats.axiom.co/api/embed/cea4e4c48a29d2ee6eb0cfef8b54a8accc1d3034.svg "Repobeats analytics image")
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="190"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
+  <img height="190"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
+  <img height="190"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
+</div>
+
 
 ![Commits](https://img.shields.io/github/commit-activity/m/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github) 
 ![Last Commit](https://img.shields.io/github/last-commit/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge&logo=github)
 ![Code Size](https://img.shields.io/github/languages/code-size/suharyadi2112/Sudev-Whatsapp-Tools?style=for-the-badge)
+
+---
 
 ## 📰 Featured Article
 
@@ -38,19 +47,6 @@ Read the full story: [Building a WhatsApp Multi-Instance REST API with Go, Echo,
 - **WhatsApp Multi-Instance Tools** – managing multiple numbers, session handling, monitoring, and message workflows with Go + Whatsmeow. [web:28]  
 - **Reporting & Line-of-Business Apps** – apps for IT reporting and HR/clinic operations (Call-IT-Geng, klinik, Aplikasi-Tes-Karyawan, Aplikasi-Tenaga-Kependidikan). [web:22]  
 - **Developer Utilities** – logging & monitoring helpers (Logrus, Sentry) to make debugging painless. [web:36][web:29]  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="190"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suharyadi2112&theme=tokyonight" />
-  <img height="190"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suharyadi2112&theme=tokyonight" />
-  <img height="190"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=suharyadi2112&theme=radical" alt="GitHub streak" />
-</div>
 
 ---
 
